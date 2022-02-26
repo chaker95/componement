@@ -1,13 +1,15 @@
 import './App.css';
-import profilePhoto from "./componements/profile/profilephoto" ;
-import fullName from './componements/profile/fullName';
-import addressName from './componements/profile/address';
+import ProfilePhoto from "./componements/profile/profilephoto" ;
+import FullName from './componements/profile/fullName';
+import AddressName from './componements/profile/address';
 const App = () => (
   
     <>
-     <profilePhoto />
-     <fullName />
-     <addressName  />
+    <div className='fin' >
+         <ProfilePhoto />
+         <FullName />
+         <AddressName  />
+     </ div >
     </>
   
  );

@@ -1,6 +1,6 @@
 import React from "react";
 
-const addressName= () => {
+const AddressName= () => {
  return <h1> beja , tunisia ,9000</h1>;
 };
-export default addressName;
+export default AddressName;

@@ -1,6 +1,6 @@
 import React from "react";
 
-const profilePhoto = () => {
+const ProfilePhoto = () => {
  return <img src="/photo.png" alt="myphoto" />
 } ;
-export default profilePhoto;
+export default ProfilePhoto;

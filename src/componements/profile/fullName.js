@@ -1,6 +1,6 @@
 import React from "react";
 
-const fullName= () => {
+const FullName= () => {
  return <h1> chaker amri</h1>;
 };
-export default fullName ;
+export default FullName ;
